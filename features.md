@@ -1,5 +1,5 @@
 # Features
 
-## Create Book
+## Creating Books
 
 Allows creating one book at a time.
